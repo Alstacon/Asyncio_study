@@ -1,0 +1,1 @@
+from chapter_4.async_requests import fetch_status
